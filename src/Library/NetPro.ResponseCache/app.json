@@ -1,0 +1,8 @@
+﻿{
+	"ResponseCacheOption": {
+		"Enabled": true,
+		"Cluster": false,
+		"Duration": 5,
+		"IgnoreVaryByQueryKeys": [ "sign", "timestamp" ]
+	}
+}
